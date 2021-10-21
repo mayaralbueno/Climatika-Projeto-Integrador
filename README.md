@@ -9,7 +9,7 @@
 <img src="https://cdn.discordapp.com/attachments/867051597850869770/897818975919034449/logo.png" style="width: 65%;">
 </p>
 
-  <h2>Nossos parceiros</h2>
+  <h2> ♻ Nossos parceiros 🌱</h2>
   
   <table align="center">
   <tr>
